@@ -176,6 +176,10 @@ span.m-left {
 	color: #BEBEBE;
 }
 
+.about-me-info a {
+	color: #FFFFFF;
+}
+
 .about-me-info p:nth-child(2),
 .about-me-info p:last-child {
 	margin-top: 30px;
