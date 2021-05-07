@@ -15,6 +15,11 @@ html {
 
 }
 
+.div3 {
+  float: right;
+  padding: 15px; 
+}
+
 nav ul,
 .main-info-section,
 .work-category {
