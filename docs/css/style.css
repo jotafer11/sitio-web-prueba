@@ -10,6 +10,11 @@ html {
 
 }
 
+.lgo a {	
+  font-size:100%;
+  text-transform: none;
+}
+
 .container {
 	padding: 0 100px 0 100px;
 
